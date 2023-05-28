@@ -14,3 +14,5 @@ pyodbc
 tabulate
 pandasql
 azure-ai-formrecognizer
+python-dotenv
+azure-cosmos
